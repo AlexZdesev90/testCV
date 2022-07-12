@@ -1,5 +1,5 @@
 # testCV
 
-This is simple test site [testCV](alexzdesev90.github.io/testcv/).
+This is simple test site [testCV](https://alexzdesev90.github.io/testCV/).
 
 - This is test app.
