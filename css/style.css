@@ -1,13 +1,13 @@
-body{
-    margin:0;
-    padding: 0;
+body {
+  margin:0;
+  padding: 0;
 }
 
-.content{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    margin: 5rem auto;
-    background-color: antiquewhite;
-    width: 80%;
+.content {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 5rem auto;
+  background-color: antiquewhite;
+  width: 80%;
 }
