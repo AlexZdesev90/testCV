@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    padding: 0;
+}
+
+.constent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 5rem auto;
+    background-color: antiquewhite;
+    width: 80%;
+}
